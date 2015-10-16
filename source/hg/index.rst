@@ -6,3 +6,4 @@ Mercurial
    :maxdepth: 2
 
    convert.rst
+   delete-remote-bookmark.rst
