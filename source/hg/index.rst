@@ -7,3 +7,4 @@ Mercurial
 
    convert.rst
    delete-remote-bookmark.rst
+   undo-commits.rst
