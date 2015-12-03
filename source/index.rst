@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    hg/index
+   ansible/index
 
 
 Indices and tables
